@@ -1,1 +1,1 @@
-# EscolaSync
+# SchoolSync
